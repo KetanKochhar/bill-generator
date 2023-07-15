@@ -1,0 +1,5 @@
+I created this project out of curiosity while standing at a petrol pump. I was fascinated by the process of printing small bill receipts, which prompted me to dive deeper into the subject. Consequently, I developed a Python command-line software that offers an interactive experience for users. By selecting images using corresponding numbers (1-4), users can engage with the program.
+
+As the project progressed, I aimed to add an element of realism. To achieve this, the software prompts users to enter all the fields typically found in a petrol pump bill. This attention to detail enhances the authenticity of the project.
+
+Although initially designed for personal enjoyment, I can showcase the progress I've made so far. The software allows users to specify the desired file name for storing the generated bill, such as "petrol." The program then automatically saves the file as "petrol.docx."
